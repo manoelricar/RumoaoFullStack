@@ -1,0 +1,4 @@
+		pratica da inclusão de imagens em arquivo html
+-salvo na mesma pasta
+-salvo em pasta diferente
+-diretamente da web
