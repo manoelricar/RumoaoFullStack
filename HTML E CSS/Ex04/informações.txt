@@ -2,4 +2,4 @@
 -salvo na mesma pasta
 -salvo em pasta diferente
 -diretamente da web
--adicionar icone de imagem na aba do navegador
+-adicionar icone de imagem na aba do navegador(FAVICON)
