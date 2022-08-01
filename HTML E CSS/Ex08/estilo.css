@@ -1,0 +1,15 @@
+h1{
+    font-style: italic;
+    text-align: center;
+    font-family: cursive;
+
+}
+h2{
+    font-family: cursive;
+  
+}
+html{
+    background-color: blueviolet;
+background-image: url(html2.png);
+color: rgb(236, 35, 69);
+}
